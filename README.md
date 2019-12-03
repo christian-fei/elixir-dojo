@@ -8,7 +8,7 @@ or pair with someone who does.
 
 **Given five playing cards, evaluate the hand.**
 
-Have a quick look at the [possible hands](cards-hands.md) we'll be identifying.
+Have a quick look at the [possible hands](card-hands.md) we'll be identifying.
 
 ## How
 
